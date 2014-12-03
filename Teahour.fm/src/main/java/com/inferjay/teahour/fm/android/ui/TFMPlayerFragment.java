@@ -164,7 +164,6 @@ public class TFMPlayerFragment extends Fragment implements OnClickLinkMovemethod
 							R.layout.item_guest_avatar_layout, mHostAvatarBarLayout, false);
 					mHostAvatarBarLayout.addView(avatarView);
 				}
-				
 				Picasso.with(getActivity()).load(urlItem).placeholder(R.drawable.ic_user_default)
 						.error(R.drawable.ic_user_default).into(avatarView);
 			}

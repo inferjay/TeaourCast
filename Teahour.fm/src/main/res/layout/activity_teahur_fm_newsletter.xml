@@ -47,13 +47,22 @@
         android:textColor="@color/color_white"
         android:background="@drawable/btn_newsletter_subscribe_selector"
 	    android:text="@string/text_newsletter_subscribe" />
-    <com.inferjay.teahour.fm.android.ui.widget.htmltextview.HtmlTextView
+    <!--<com.inferjay.teahour.fm.android.ui.widget.htmltextview.HtmlTextView-->
+        <!--android:id="@+id/tv_news_letter_msg"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:gravity="left|top"-->
+        <!--android:textSize="14sp"-->
+        <!--android:autoLink="web"-->
+        <!--android:layout_below="@+id/btn_newsletter_subscibe"/>-->
+    <TextView
         android:id="@+id/tv_news_letter_msg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:gravity="left|top"
         android:textSize="14sp"
-        android:autoLink="web"
+        android:linksClickable="true"
         android:layout_below="@+id/btn_newsletter_subscibe"/>
 </RelativeLayout>

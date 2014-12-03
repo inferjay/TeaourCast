@@ -57,6 +57,8 @@
     <string name="text_msg_timeout">网络连接超时</string>
     <string name="text_msg_newsletter_subscibe_success">订阅成功</string>
     <string name="text_msg_newsletter_subscibe_fail">订阅失败</string>
+    <string name="text_msg_newsletter_already_subscibe_success">已经订阅</string>
+    <string name="text_mag_newsletter_subscibing">正在订阅&#8230;</string>
 
     <string name="text_newsletter_subscribe">订阅</string>
 </resources>

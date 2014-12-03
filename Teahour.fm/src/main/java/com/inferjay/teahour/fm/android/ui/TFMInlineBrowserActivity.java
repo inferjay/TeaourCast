@@ -36,7 +36,6 @@ import com.inferjay.teahour.fm.android.constant.TFMConstant;
 
 import org.apache.http.protocol.HTTP;
 
-import butterknife.ButterKnife;
 import butterknife.InjectView;
 
 @SuppressLint("SetJavaScriptEnabled")

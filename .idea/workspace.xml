@@ -49,350 +49,18 @@
     </layouts>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.inferjay.teahour.fm.android" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e2bc2b7-3b2d-47b6-9e98-549684493366" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/art/Screenshot1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/art/Screenshot2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/art/Screenshot3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/art/Screenshot4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-Core-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-Facebook-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-SinaWeibo-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-Twitter-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-Wechat-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-Wechat-Core-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/ShareSDK-Wechat-Moments-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/actionbar_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/drawer_shadow.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/drawer_shadow.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/drawer_shadow.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/drawer_shadow.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_about_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_about_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_about_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_about_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_about_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_about_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_about_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_about_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_about_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_about_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_about_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_about_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_acitonbar_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_acitonbar_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_acitonbar_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_acitonbar_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_action_overflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_action_overflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_action_overflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_action_overflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_action_refresh_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_action_refresh_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_action_refresh_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_action_refresh_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_action_refresh_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_action_share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_action_share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_action_share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_action_share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_action_share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_actionbar_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_actionbar_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_actionbar_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_actionbar_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_actionbar_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_avatar_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_next_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_next_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_next_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_next_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_next_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_next_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_next_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_next_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_previous_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_previous_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_previous_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_previous_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_previous_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_previous_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_previous_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_previous_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_start_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_start_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_start_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_start_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_start_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_start_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_start_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_start_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_stop_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_stop_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_stop_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_stop_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_play_stop_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_play_stop_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_play_stop_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_play_stop_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_btn_seekbar_thunb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_btn_seekbar_thunb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_btn_seekbar_thunb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_btn_seekbar_thunb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/ic_green_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_host_mic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_host_mic_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_host_mic_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_host_mic_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_host_mic_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_host_mic_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/ic_launcher-web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_exit_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_exit_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_exit_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_exit_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_open_sources.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_open_sources.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_open_sources.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_open_sources.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_podcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_podcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_podcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_podcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_wechat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_wechat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_wechat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_wechat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_wechat_moments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_wechat_moments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_wechat_moments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_wechat_moments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_menu_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_menu_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_menu_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_menu_weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_mic_grey600_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_mic_grey600_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_mic_grey600_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_mic_grey600_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxxhdpi/ic_mic_grey600_24dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_play_bar_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_seekbar_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_seekbar_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_seekbar_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_seekbar_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_seekbar_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_seekbar_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_seekbar_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_seekbar_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/ic_seekbar_secondary_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_seekbar_secondary_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_seekbar_secondary_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xxhdpi/ic_seekbar_secondary_progress.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-mdpi/ic_seekbar_thunb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ic_user_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/armeabi/libbspatch.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/armeabi-v7a/libbspatch.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/mips/libbspatch.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/x86/libbspatch.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/mframework.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/qrcode.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ssdk_auth_title_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ssdk_back_arr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ssdk_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-xhdpi/ssdk_title_div.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/umeng-update-v2.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_btn_check_off_focused_holo_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_btn_check_off_holo_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_btn_check_off_pressed_holo_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_btn_check_on_focused_holo_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_btn_check_on_holo_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_btn_check_on_pressed_holo_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_close_bg_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable-hdpi/umeng_update_close_bg_tap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_wifi_disable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/libs/volley.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ATeahour.fm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/AppUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/androidTest/java/com/inferjay/teahour/fm/android/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/CircleImageView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/htmltextview/HtmlTagHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/htmltextview/HtmlTextView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/htmltextview/JellyBeanSpanFixTextView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/htmltextview/LocalImageGetter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/net/ParseNetworkResponseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/assets/ShareSDK.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMAboutActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMActionBarUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/TFMApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMBaseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/net/TFMBasePostRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/constant/TFMConstant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMFeedDataParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMFeedDataService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedDataSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedItemAuthor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedItemDescription.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedItemEnclosure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedItemSummary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/net/TFMFeedRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/TFMLaodingLayerCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/htmltextview/TFMLinkMovementMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMLinkUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMLogUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMMainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/adapter/TFMNavDrawerListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNavigationDrawerFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/net/TFMNewsLetterRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNoParentNavBaseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMPlayService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/net/TFMRequestManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMSettingsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMShareUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMSubscibeNewsLetterService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMTimeUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/Teahour.fm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/callback/UpdateDrawerListStateCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/widget/htmltextview/UrlImageGetter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/wxapi/WXEntryActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/actionbar_green_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahour_fm_about.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahour_fm_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahour_fm_setting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahour_fm_webview.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_newsletter_subscribe_disabled.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_newsletter_subscribe_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_newsletter_subscribe_pressed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_newsletter_subscribe_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_play_next_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_play_previous_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_play_start_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/btn_play_stop_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/color/color_drawer_list_item_text_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/color/color_drawer_list_item_text_select.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-hdpi/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-xhdpi/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-xxhdpi/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-xxxhdpi/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/empty.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/error.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/fragment_navigation_drawer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/fragment_teahour_fm_player.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/menu/global.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/item_guest_avatar_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/item_host_avatar_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/item_nav_drawer_list.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/main_green_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/nav_drawer_list_item_gray_rectangle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/nav_drawer_list_item_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/play_host_bar_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/xml/pref_about.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/xml/pref_download.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/xml/pref_headers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/xml/pref_network.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/xml/pref_problem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/xml/pref_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/anim/push_left_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/anim/push_left_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/anim/push_right_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/anim/push_right_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/seekbar_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/seekbar_progress.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/seekbar_progress_drawable.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/seekbar_progress_horizontal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/seekbar_secondary_progress.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/ssdk_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/ssdk_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/menu/teahour_fm_main_actionbar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/umeng_common_download_notification.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout-v9/umeng_common_download_notification.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_common_gradient_green.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_common_gradient_orange.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_common_gradient_red.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/umeng_common_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/umeng_common_strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_check_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_close_bg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/umeng_update_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_dialog_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/umeng_update_string.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/umeng_update_string.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/drawable/umeng_update_title_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml" afterPath="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ATeahour.fm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -418,23 +86,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Teahour.fm/build.gradle">
+      <file leaf-file-name="TFMNewsletterActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1003">
-              <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.5990566" vertical-offset="1973" max-vertical-offset="2601">
+              <caret line="165" column="51" selection-start-line="165" selection-start-column="51" selection-end-line="165" selection-end-column="51" />
               <folding>
-                <element signature="e#1240#1646#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#3508#3556#0" expanded="true" />
+                <element signature="e#3645#3687#0" expanded="true" />
+                <element signature="e#4879#4929#0" expanded="true" />
+                <element signature="e#5112#5157#0" expanded="true" />
+                <element signature="e#5283#5347#0" expanded="true" />
+                <element signature="e#5453#5509#0" expanded="true" />
+                <element signature="e#5636#5689#0" expanded="true" />
+                <element signature="e#5764#5817#0" expanded="true" />
+                <element signature="e#6442#6484#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="MovementMethod.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Applications/sdk/sources/android-21/android/text/method/MovementMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.632" vertical-offset="237" max-vertical-offset="612">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="493">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TFMPlayerFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="2499">
+              <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+              <folding>
+                <element signature="class#InitPlayBarDetailViewCallback#0;class#TFMPlayerFragment#0" expanded="true" />
+                <element signature="method#setCreatePlayBarCallback#0;class#TFMPlayerFragment#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_teahur_fm_newsletter.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.892858" vertical-offset="811" max-vertical-offset="1258">
+              <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -443,38 +146,18 @@
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1229" max-vertical-offset="1615">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            <state vertical-scroll-proportion="-12.28" vertical-offset="1223" max-vertical-offset="1632">
+              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/AndroidManifest.xml">
+      <file leaf-file-name="TFMPlayService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMPlayService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="2108">
-              <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TFMNewsletterActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2771" max-vertical-offset="2958">
-              <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TFMSubscibeNewsLetterService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMSubscibeNewsLetterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1360">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2904" max-vertical-offset="3434">
+              <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1896,11 +1579,7 @@
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/net/TFMNewsLetterRequest.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/proguard-project.txt" />
         <option value="$PROJECT_DIR$/Teahour.fm/proguard-rules.pro" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMNewsLetterService.java" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/constant/TFMConstant.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/assets/ShareSDK.xml" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/utils/TFMShareUtils.java" />
@@ -1910,15 +1589,19 @@
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/callback/DrawerListEmptyViewStateCallback.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/callback/UpdateDrawerListStateCallback.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNavigationDrawerFragment.java" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMFeedDataService.java" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMMainActivity.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMPlayService.java" />
-        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMSubscibeNewsLetterService.java" />
         <option value="$PROJECT_DIR$/Teahour.fm/build.gradle" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMMainActivity.java" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml" />
+        <option value="$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java" />
       </list>
     </option>
   </component>
@@ -2001,6 +1684,120 @@
               <option name="myItemId" value="ATeahour.fm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 21 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 21 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 21 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 21 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Android API 21 Platform &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="method" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2023,6 +1820,294 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ATeahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Teahour.fm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2506,28 +2591,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.37804878" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40394738" sideWeight="0.16522989" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22557472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="564" y="206" width="315" height="510" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.6219512" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.6219512" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27069646" sideWeight="0.76829267" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46842104" sideWeight="0.6133429" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46842104" sideWeight="0.61278737" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5659971" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mirror" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39947438" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40394738" sideWeight="0.8350072" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40394738" sideWeight="0.83477014" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2537,8 +2624,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5659971" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -2594,69 +2679,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/data/TFMFeedDataSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1597" max-vertical-offset="2115">
-          <caret line="192" column="0" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/sdk/sources/android-21/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13162" max-vertical-offset="41640">
-          <caret line="2608" column="0" selection-start-line="2608" selection-start-column="0" selection-end-line="2608" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/sdk/sources/android-21/com/android/internal/policy/impl/PhoneWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="12277" max-vertical-offset="39930">
-          <caret line="1048" column="0" selection-start-line="1048" selection-start-column="0" selection-end-line="1048" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/sdk/sources/android-21/com/android/internal/view/menu/MenuBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8257" max-vertical-offset="15270">
-          <caret line="734" column="0" selection-start-line="734" selection-start-column="0" selection-end-line="734" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/sdk/sources/android-21/com/android/internal/view/menu/SubMenuBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="517" max-vertical-offset="1455">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/ic_launcher-web.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/1.0.0-rc1/builder-1.0.0-rc1-sources.jar!/com/android/builder/signing/DefaultSigningConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.249453" vertical-offset="1628" max-vertical-offset="2085">
-          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-          <folding>
-            <element signature="e#2184#2193#0" expanded="false" />
-            <element signature="e#2270#2279#0" expanded="false" />
-            <element signature="method#setStoreFile#0;class#DefaultSigningConfig#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/teahourfm.jks">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="469">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40254238" vertical-offset="0" max-vertical-offset="708">
@@ -2716,6 +2742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="128" max-vertical-offset="840">
           <caret line="74" column="33" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2726,38 +2753,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/fragment_teahour_fm_player.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="127.77778" vertical-offset="3450" max-vertical-offset="4140">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.72" vertical-offset="602" max-vertical-offset="1020">
-          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4444447" vertical-offset="561" max-vertical-offset="975">
-          <caret line="49" column="72" selection-start-line="49" selection-start-column="72" selection-end-line="49" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/sdk/sources/android-21/android/webkit/WebView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4741784" vertical-offset="623" max-vertical-offset="2445">
           <caret line="104" column="24" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2779,13 +2779,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
           <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/constant/TFMConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.471831" vertical-offset="339" max-vertical-offset="765">
-          <caret line="51" column="75" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2793,6 +2789,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="88807" max-vertical-offset="162645">
           <caret line="11637" column="0" selection-start-line="11637" selection-start-column="0" selection-end-line="11637" selection-end-column="0" />
+          <folding>
+            <element signature="e#442128#442129#0" expanded="false" />
+            <element signature="e#442164#442165#0" expanded="false" />
+            <element signature="e#453605#453606#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2817,6 +2818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2834,31 +2836,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="2160">
-          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMBaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19014084" vertical-offset="294" max-vertical-offset="720">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80985916" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMMainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.15962441" vertical-offset="4073" max-vertical-offset="6975">
-          <caret line="351" column="17" selection-start-line="351" selection-start-column="17" selection-end-line="351" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2866,13 +2848,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.685446" vertical-offset="1838" max-vertical-offset="2610">
           <caret line="192" column="10" selection-start-line="192" selection-start-column="10" selection-end-line="192" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNavigationDrawerFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54" vertical-offset="2979" max-vertical-offset="3480">
-          <caret line="294" column="78" selection-start-line="294" selection-start-column="78" selection-end-line="294" selection-end-column="78" />
+          <folding>
+            <element signature="e#2362#2975#0" expanded="false" />
+            <element signature="e#2968#2969#0" expanded="false" />
+            <element signature="e#3018#3210#0" expanded="false" />
+            <element signature="e#3206#3207#0" expanded="false" />
+            <element signature="e#6284#6315#0" expanded="false" />
+            <element signature="e#6478#6537#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2880,6 +2863,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="2490">
           <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2887,37 +2871,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.191943" vertical-offset="9404" max-vertical-offset="11135">
           <caret line="950" column="56" selection-start-line="950" selection-start-column="44" selection-end-line="950" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1229" max-vertical-offset="1615">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="862" max-vertical-offset="2108">
-          <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMPlayService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37469587" vertical-offset="2974" max-vertical-offset="4063">
-          <caret line="229" column="100" selection-start-line="229" selection-start-column="100" selection-end-line="229" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1969" max-vertical-offset="2380">
-          <caret line="163" column="17" selection-start-line="163" selection-start-column="17" selection-end-line="163" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="method#setSmallIcon#0;class#Builder#0;class#NotificationCompat#0" expanded="false" />
+            <element signature="docComment;method#setSmallIcon#1;class#Builder#0;class#NotificationCompat#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2951,21 +2908,234 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teahour.fm/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1003">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-          <folding>
-            <element signature="e#1240#1646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.632" vertical-offset="237" max-vertical-offset="612">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="862" max-vertical-offset="2108">
+          <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/values-zh/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5595855" vertical-offset="804" max-vertical-offset="1190">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="1003">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+          <folding>
+            <element signature="e#1240#1646#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/sdk/sources/android-21/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.108490564" vertical-offset="8750" max-vertical-offset="18292">
+          <caret line="887" column="15" selection-start-line="887" selection-start-column="15" selection-end-line="887" selection-end-column="15" />
+          <folding>
+            <element signature="docComment;method#indexOf#2;class#String#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/sdk/sources/android-21/android/text/TextUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="21063">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahour_fm_webview.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.12878788" vertical-offset="51" max-vertical-offset="493">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/sdk/sources/android-21/android/webkit/ValueCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2004717" vertical-offset="0" max-vertical-offset="424">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/item_host_avatar_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="38" max-vertical-offset="612">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMInlineBrowserActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38877338" vertical-offset="187" max-vertical-offset="1870">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="class#3291:3884" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/constant/TFMConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17463617" vertical-offset="52" max-vertical-offset="867">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/loading.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/sdk/sources/android-21/android/webkit/WebChromeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.6735966" vertical-offset="562" max-vertical-offset="2567">
+          <caret line="512" column="39" selection-start-line="512" selection-start-column="39" selection-end-line="512" selection-end-column="39" />
+          <folding>
+            <element signature="docComment;method#openFileChooser#0;class#WebChromeClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNavigationDrawerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3341" max-vertical-offset="3893">
+          <caret line="294" column="78" selection-start-line="294" selection-start-column="78" selection-end-line="294" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#NavigationDrawerCallbacks#0;class#TFMNavigationDrawerFragment#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMMainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.072649576" vertical-offset="187" max-vertical-offset="8500">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="class#RefreshPlayBarViewHandler#0;class#TFMMainActivity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/service/TFMPlayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2904" max-vertical-offset="3434">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/sdk/sources/android-21/android/widget/TextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="19462" max-vertical-offset="118711">
+          <caret line="1695" column="45" selection-start-line="1695" selection-start-column="45" selection-end-line="1695" selection-end-column="45" />
+          <folding>
+            <element signature="docComment;method#setTransformationMethod#0;class#TextView#0" expanded="true" />
+            <element signature="docComment;method#setAutoLinkMask#0;class#TextView#0" expanded="true" />
+            <element signature="e#112058#112059#0" expanded="true" />
+            <element signature="e#112094#112095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/sdk/sources/android-21/android/text/method/MovementMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="493">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/fragment_teahour_fm_player.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6010101" vertical-offset="3927" max-vertical-offset="4692">
+          <caret line="245" column="16" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMPlayerFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="931" max-vertical-offset="2499">
+          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding>
+            <element signature="class#InitPlayBarDetailViewCallback#0;class#TFMPlayerFragment#0" expanded="true" />
+            <element signature="method#setCreatePlayBarCallback#0;class#TFMPlayerFragment#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/layout/activity_teahur_fm_newsletter.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.892858" vertical-offset="811" max-vertical-offset="1258">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.28" vertical-offset="1223" max-vertical-offset="1632">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teahour.fm/src/main/java/com/inferjay/teahour/fm/android/ui/TFMNewsletterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5990566" vertical-offset="1973" max-vertical-offset="2601">
+          <caret line="165" column="51" selection-start-line="165" selection-start-column="51" selection-end-line="165" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3508#3556#0" expanded="true" />
+            <element signature="e#3645#3687#0" expanded="true" />
+            <element signature="e#4879#4929#0" expanded="true" />
+            <element signature="e#5112#5157#0" expanded="true" />
+            <element signature="e#5283#5347#0" expanded="true" />
+            <element signature="e#5453#5509#0" expanded="true" />
+            <element signature="e#5636#5689#0" expanded="true" />
+            <element signature="e#5764#5817#0" expanded="true" />
+            <element signature="e#6442#6484#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

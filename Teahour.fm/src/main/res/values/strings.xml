@@ -82,8 +82,9 @@
     <string name="text_msg_newsletter_subscibe_success">Subscibe Success</string>
     <string name="text_msg_newsletter_subscibe_fail">Subscibe Fail</string>
     <string name="text_msg_newsletter_subscibe_almost_finished">&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;strong&gt;Almost finished&#8230;&lt;strong/&gt;&lt;p/&gt;We need to confirm your email address.&lt;br/&gt;&lt;br/&gt;To complete the subscription process, please click the link in the email we just sent you.&lt;body/&gt;&lt;html/&gt;</string>
-    <string name="text_msg_newslette_already_subscibed">&lt;html&gt;&lt;body&gt;&lt;p style="color:#e85c41;font-weight:bold;"&gt;%s is already subscribed to list Teahour.fm. &lt;a href="http://fengcheco.us5.list-manage1.com/subscribe/send-email?u=73dd7c7fe45b53ba8e6ca952d&amp;id=2bcf4ff1fe&amp;e=aW5mZXJqYXlAZ21haWwuY29t"&gt;Click here to update your profile.&lt;/a&gt;&lt;/p&gt;&lt;body/&gt;&lt;html/&gt;</string>
+    <string name="text_msg_newslette_already_subscibed">&lt;html&gt;&lt;body&gt;&lt;p style=\"color:#e85c41;font-weight:bold;\"&gt;%s is already subscribed to list Teahour.fm. &lt;a href=\"http://fengcheco.us5.list-manage1.com/subscribe/send-email?u=73dd7c7fe45b53ba8e6ca952d&amp;id=2bcf4ff1fe&amp;e=aW5mZXJqYXlAZ21haWwuY29t\"&gt;Click here to update your profile.&lt;/a&gt;&lt;/p&gt;&lt;body/&gt;&lt;html/&gt;</string>
     <string name="text_msg_newsletter_already_subscibe_success">Already Subscibed</string>
+    <string name="text_mag_newsletter_subscibing">Subsicbe&#8230;</string>
 
     <string name="text_newsletter_subscribe">Subscribe</string>
 </resources>
