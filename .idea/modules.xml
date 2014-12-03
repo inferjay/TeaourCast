@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATeahour.fm.iml" filepath="$PROJECT_DIR$/ATeahour.fm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teahour.fm/Teahour.fm.iml" filepath="$PROJECT_DIR$/Teahour.fm/Teahour.fm.iml" />
+    </modules>
+  </component>
+</project>
+

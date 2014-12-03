@@ -1,0 +1,112 @@
+apply plugin: 'com.android.application'
+repositories {
+    mavenCentral()
+}
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.1"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0.0"
+        multiDexEnabled false
+        manifestPlaceholders = [ UMENG_CHANNEL_VALUE:"default_channel" ]
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    //lint工具设置
+    lintOptions {
+        //是否在Release版本时进行lint检查
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        //这个是解决lint报错的问题
+        abortOnError false
+
+        disable 'InvalidPackage'
+    }
+
+    //Apk签名配置
+    signingConfigs {
+        release {
+            keyAlias 'teahour.fm'
+            keyPassword 'teahour.fm'
+            storeFile file('./teahourfm.jks')
+            storePassword 'teahour.fm'
+        }
+    }
+
+    buildTypes {
+
+        debug {
+            //包名后缀
+            //applicationIdSuffix ".debug"
+            versionNameSuffix "-debug"
+            signingConfig signingConfigs.release
+        }
+
+        release {
+            //版本名后缀
+            versionNameSuffix "-beta"
+            //字节压缩对齐
+            zipAlignEnabled true
+            //是否开启代码混淆
+            minifyEnabled true
+            //删除没用的资源文件
+            //shrinkResources true
+            //指定代码混淆规则文件
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            signingConfig signingConfigs.release
+        }
+    }
+
+
+
+    //Build多渠道Apk
+    productFlavors {
+        Beta {
+        }
+
+//        GooglePlay {
+//        }
+//
+//        Umeng {
+//        }
+    }
+
+    productFlavors.all { flavor ->
+        flavor.manifestPlaceholders = [ UMENG_CHANNEL_VALUE:name ]
+    }
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def outputFile = output.outputFile
+            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                def fileName = outputFile.name.replace(".apk", "-${defaultConfig.versionName}.apk")
+                output.outputFile = new File(outputFile.parent, fileName)
+            }
+        }
+    }
+
+
+    packagingOptions {
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+    }
+
+}
+
+//依赖配置
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:21.0.2'
+    compile 'com.squareup.picasso:picasso:2.4.0'
+    compile 'com.jakewharton:butterknife:5.1.1'
+    compile 'com.lsjwzh:loadingeverywhere:2.0.5'
+}

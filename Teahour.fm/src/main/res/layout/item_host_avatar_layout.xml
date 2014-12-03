@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="8dp"
+    android:layout_marginRight="8dp" >
+
+    <com.inferjay.teahour.fm.android.ui.widget.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/civ_host_avatar"
+        android:layout_width="@dimen/avatar_size"
+        android:layout_height="@dimen/avatar_size"
+        android:src="@drawable/ic_user_default"
+        app:border_color="@color/color_avatar_border"
+        app:border_width="@dimen/avatar_border"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/civ_host_avatar"
+        android:layout_alignEnd="@id/civ_host_avatar"
+        android:layout_alignRight="@id/civ_host_avatar"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginRight="-1dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/ic_host_mic_yellow"
+        tools:ignore="ContentDescription" />
+
+</RelativeLayout>

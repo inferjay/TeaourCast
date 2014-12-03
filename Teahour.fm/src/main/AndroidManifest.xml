@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inferjay.teahour.fm.android"
+    android:installLocation="auto" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <application
+        android:name="com.inferjay.teahour.fm.android.TFMApplication"
+        android:allowBackup="true"
+        android:allowClearUserData="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.inferjay.teahour.fm.android.ui.TFMMainActivity"
+            android:label="@string/title_action_main"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.inferjay.teahour.fm.android.ui.TFMAboutActivity"
+            android:label="@string/title_activity_about"
+            android:parentActivityName="com.inferjay.teahour.fm.android.ui.TFMSettingsActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.TFMSettingsActivity" />
+        </activity>
+        <activity
+            android:name="com.inferjay.teahour.fm.android.ui.TFMInlineBrowserActivity"
+            android:label="@string/title_activity_webview"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.inferjay.teahour.fm.android.ui.TFMSettingsActivity"
+            android:label="@string/title_activity_setting"
+            android:parentActivityName="com.inferjay.teahour.fm.android.ui.TFMMainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.TFMMainActivity" />
+        </activity>
+
+        <service
+            android:name="com.inferjay.teahour.fm.android.service.TFMPlayService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.inferjay.teahour.fm.android.ui.TFMNewsletterActivity"
+            android:label="@string/title_activity_newsletter"
+            android:parentActivityName="com.inferjay.teahour.fm.android.ui.TFMMainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.inferjay.teahour.fm.android.ui.TFMMainActivity" />
+        </activity>
+
+        <!-- Umeng Update -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="53fa136bfd98c56dac04beb0" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="${UMENG_CHANNEL_VALUE}" />
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" />
+
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- Umeng Update End -->
+
+
+        <!-- Share SDK -->
+        <activity
+            android:name="cn.sharesdk.framework.ShareSDKUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <!--
+            	AuthorizeAdapter表示一个继承自cn.sharesdk.framework.authorize.AuthorizeAdapter
+            	的类，这个类可以监听到页面的生命周期，也可以获取授权页面的各种UI控件。
+            	开发者可以通过继承AuthorizeAdapter，重写其方法，并获取各种UI来自定义这个页面的行为。
+            -->
+            <meta-data android:name="AuthorizeAdapter" android:value="cn.sharesdk.demo.MyAdapter" />
+        </activity>
+
+        <!-- 微信分享回调 -->
+        <activity
+            android:name="com.inferjay.teahour.fm.android.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- Share SDK -->
+    </application>
+
+</manifest>

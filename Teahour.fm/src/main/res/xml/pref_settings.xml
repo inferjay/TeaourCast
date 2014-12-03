@@ -1,0 +1,36 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--<PreferenceCategory android:title="@string/title_pref_header_network" >-->
+        <!--<CheckBoxPreference-->
+            <!--android:defaultValue="true"-->
+            <!--android:key="@string/key_pref_wifi_auto_play"-->
+            <!--android:title="@string/text_pref_wifi_auto_play" />-->
+        <!--<CheckBoxPreference-->
+            <!--android:defaultValue="false"-->
+            <!--android:key="@string/key_pref_2g3g4g_auto_play"-->
+            <!--android:title="@string/text_pref_2g3g4g_auto_play" />-->
+    <!--</PreferenceCategory>-->
+<!--     <PreferenceCategory android:title="@string/title_pref_header_download" >
+        <Preference
+            android:key="@string/key_pref_clean_download_cache"
+            android:title="@string/text_pref_clean_download_cache" />
+    </PreferenceCategory> -->
+    <PreferenceCategory android:title="@string/title_pref_header_problem" >
+        <Preference
+            android:key="@string/key_pref_feedback"
+            android:title="@string/text_pref_feedback" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/title_pref_header_about" >
+        <Preference
+            android:key="@string/key_pref_check_new_version"
+            android:summary="@string/text_pref_check_new_version_summry"
+            android:title="@string/text_pref_check_new_version" />
+        <Preference
+            android:key="@string/key_pref_about_teahour_fm"
+            android:title="@string/text_pref_about_teahour_fm" />
+        <Preference
+            android:key="@string/key_pref_about_creater"
+            android:title="@string/text_pref_about_creater" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

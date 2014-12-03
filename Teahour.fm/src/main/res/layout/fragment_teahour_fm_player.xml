@@ -1,0 +1,271 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_common_background"
+    tools:context=".TeahourFMMainActivity$PlaceholderFragment" >
+
+    <HorizontalScrollView
+        android:id="@+id/hs_fm_host_avatar_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/play_host_bar_bg"
+        android:orientation="horizontal"
+        android:paddingEnd="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingStart="10dp" >
+
+        <LinearLayout
+            android:id="@+id/ll_fm_host_avatar_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="6dp"
+            android:paddingTop="6dp" />
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/rl_fm_play_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/ic_play_bar_bg"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+<!--         <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <SeekBar
+                android:id="@+id/sb_paly_progress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"/>
+
+            <TextView
+                android:id="@+id/tv_paly_start_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/sb_paly_progress"
+                android:layout_alignStart="@id/sb_paly_progress"
+                android:layout_below="@id/sb_paly_progress"
+                android:text="@string/text_play_time_default"
+                android:textColor="@color/color_white"
+                android:textSize="12sp"               
+                android:layout_marginTop="5dp" />
+
+            <TextView
+                android:id="@+id/tv_paly_end_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@id/sb_paly_progress"
+                android:layout_alignRight="@id/sb_paly_progress"
+                android:layout_below="@id/sb_paly_progress"
+                android:text="@string/text_play_time_default"
+                android:textColor="@color/color_white"
+                android:textSize="12sp"                
+                android:layout_marginTop="5dp"/>
+        </RelativeLayout> -->
+        
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_paly_start_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:text="@string/text_play_time_default"
+                android:textColor="@color/color_white"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_paly_end_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/text_play_time_default"
+                android:textColor="@color/color_white"
+                android:textSize="12sp" />
+
+            <SeekBar
+                android:id="@+id/sb_paly_progress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/tv_paly_start_time"
+                android:layout_toLeftOf="@+id/tv_paly_end_time"
+                android:layout_toRightOf="@+id/tv_paly_start_time"
+                android:layout_toStartOf="@+id/tv_paly_end_time" 
+                android:progressDrawable="@drawable/seekbar_progress_drawable"
+                android:thumb="@drawable/ic_btn_seekbar_thunb"
+                android:padding="0dp"
+                android:thumbOffset="0dp"
+                android:max="0"
+                android:layout_margin="5dp"/>
+        </RelativeLayout>
+       
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:gravity="center_vertical" >
+
+            <ImageButton
+                android:id="@+id/ibtn_play_previous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/btn_play_previous_selector"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:id="@+id/ibtn_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/btn_play_start_selector"
+                tools:ignore="ContentDescription" />
+
+            <ImageButton
+                android:id="@+id/ibtn_play_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/btn_play_next_selector"
+                tools:ignore="ContentDescription" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/rl_fm_play_bar"
+        android:layout_below="@+id/hs_fm_host_avatar_bar"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_host_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="@string/text_teahour_fm_host"
+                android:textColor="@color/color_black_80_opacity"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_host_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/color_content_text"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_guests_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="@string/text_teahour_fm_guests"
+                android:textColor="@color/color_black_80_opacity"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_guests_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/color_content_text"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tipcs_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="@string/text_teahour_fm_tipcs"
+                android:textColor="@color/color_black_80_opacity"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_tipcs_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/color_content_text"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_show_notes_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/text_teahour_fm_show_notes"
+                android:textColor="@color/color_black_80_opacity"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.inferjay.teahour.fm.android.ui.widget.htmltextview.HtmlTextView
+                android:id="@+id/tv_show_notes_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="5dp"
+                android:autoLink="all"
+                android:textColor="@color/color_content_text"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_more_resources_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_teahour_fm_more_resources"
+                android:textColor="@color/color_more_resources"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.inferjay.teahour.fm.android.ui.widget.htmltextview.HtmlTextView
+                android:id="@+id/tv_more_resources_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:autoLink="all"
+                android:textColor="@color/color_more_resources"
+                android:textColorLink="@color/color_text_link"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

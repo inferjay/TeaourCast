@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="@string/key_pref_check_new_version"
+        android:title="@string/text_pref_check_new_version" 
+        android:summary="@string/text_pref_check_new_version_summry"/>
+
+    <Preference
+        android:key="@string/key_pref_about_teahour_fm"
+        android:title="@string/text_pref_about_teahour_fm" />
+
+    <Preference
+        android:key="@string/key_pref_about_creater"
+        android:title="@string/text_pref_about_creater" />
+
+</PreferenceScreen>

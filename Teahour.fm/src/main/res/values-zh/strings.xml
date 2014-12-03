@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Teahour.FM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_overflow">更多</string>
+    <string name="action_share">分享</string>
+    <string name="action_podcast">PodCast</string>
+    <string name="action_newsletter">订阅</string>
+    <string name="action_open_source">Open Source</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="action_exit_app">退出应用</string>
+    <string name="action_share_to_wechat">分享到朋友圈</string>
+    <string name="action_share_to_twitter">分享到Twitter</string>
+    <string name="action_share_to_weibo">分享到微博</string>
+    <string name="action_share_to_facebook">分享到Facebook</string>
+    <string name="action_refresh">刷新</string>
+
+    <string name="url_podcat">http://itunes.apple.com/cn/podcast/teahour.fm/id608387170?l=en</string>
+    <string name="url_newsletter">http://pragmatic.us5.list-manage1.com/subscribe/post?u=73dd7c7fe45b53ba8e6ca952d&#38;id=2bcf4ff1fe&#38;EMAIL＝</string>
+    <string name="url_open_source">https://gitcafe.com/teahour/site</string>
+
+    <string name="title_activity_about">关于Teahour.fm</string>
+    <string name="title_activity_webview">@string/app_name</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="title_activity_newsletter">订阅</string>
+    <string name="title_exit_app_dialog">退出</string>
+
+	<string name="text_teahour_fm_introduce_info">Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，
+	    包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</string>
+	<string name="text_made_by_info">ATeahour.fm made by inferjay</string>
+	<string name="text_share_content_titel_prefix">推荐 Teahour </string>
+	
+	<string name="text_pref_about_teahour_fm">关于Teahour.fm</string>
+	<string name="text_pref_wifi_auto_play">WiFi网络自动播放</string>
+	<string name="text_pref_2g3g4g_auto_play">2G/3G/4G网络自动播放</string>
+	<string name="title_pref_header_network">网络</string>
+	<string name="title_pref_header_download">下载</string>
+	<string name="title_pref_header_problem">问题</string>
+	<string name="title_pref_header_about">关于</string>
+	<string name="text_pref_clean_download_cache">清除缓存</string>
+	<string name="text_pref_check_new_version">检查新版本</string>
+	<string name="text_pref_check_new_version_summry">当前版本V</string>
+	<string name="text_pref_feedback">意见反馈</string>
+	<string name="text_pref_about_creater">关于作者</string>
+
+    <string name="text_msg_exit_app">确定要退出应用吗？</string>
+    <string name="text_msg_please_inmput_email">请输入你的邮箱</string>
+    <string name="text_msg_loaddata_error">数据加载失败</string>
+    <string name="text_msg_no_data">无数据</string>
+    <string name="text_msg_no_share_data">没有可以分享的内容</string>
+    <string name="text_msg_invalid_email">无效的Email地址</string>
+    <string name="text_msg_is_new_version">当前已是最新版本</string>
+    <string name="text_msg_none_wifi">没有wifi连接，只在wifi下更新</string>
+    <string name="text_msg_timeout">网络连接超时</string>
+    <string name="text_msg_newsletter_subscibe_success">订阅成功</string>
+    <string name="text_msg_newsletter_subscibe_fail">订阅失败</string>
+
+    <string name="text_newsletter_subscribe">订阅</string>
+</resources>
