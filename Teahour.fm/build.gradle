@@ -36,10 +36,10 @@ android {
     //Apk签名配置
     signingConfigs {
         release {
-            keyAlias 'teahour.fm'
-            keyPassword 'teahour.fm'
-            storeFile file('./teahourfm.jks')
-            storePassword 'teahour.fm'
+            keyAlias 'Your keyAlias'
+            keyPassword 'Your keyPassword'
+            storeFile file('Your keystore file')
+            storePassword 'Your storePassword'
         }
     }
 
