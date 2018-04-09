@@ -1,4 +1,4 @@
-ATeahour.fm
+TeaourCast
 ----
 
 Android Client for Teahour.fm Podcast
