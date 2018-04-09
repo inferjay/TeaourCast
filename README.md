@@ -1,5 +1,5 @@
 ATeahour.fm
-===========
+----
 
 An Teahour.fm Android Client
 
@@ -7,10 +7,10 @@ Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng �
 
 # Screen Shots
 
-<img width="360"src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot1.png"/>
-<img width="360"src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot2.png"/>
-<img width="360"src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot3.png"/>
-<img width="360"src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot4.png"/>
+<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot1.png"/>
+<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot2.png"/>
+<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot3.png"/>
+<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot4.png"/>
 
 # Build
 1. Install `Android Studio 0.14+`、`gradle 2.0+`、`JDK 1.6+` and `Android SDK Tools` last version.
@@ -73,7 +73,7 @@ Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng �
 # License
 
 ```
-Copyright 2014 HC ZHANG http://www.inferjay.com
+Copyright 2014 inferjay http://www.inferjay.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
