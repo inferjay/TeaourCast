@@ -16,7 +16,7 @@ Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng �
 
 	first clone project
 
-		git clone https://github.com/inferjay/TeahourCast.git
+		git clone https://github.com/inferjay/TeaourCast.git
 
 	then	
 	
