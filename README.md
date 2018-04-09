@@ -7,10 +7,7 @@ Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng �
 
 # Screen Shots
 
-<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot1.png"/>
-<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot2.png"/>
-<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot3.png"/>
-<img width="360" src="https://raw.githubusercontent.com/inferjay/ATeahour.fm/master/art/Screenshot4.png"/>
+<img src="https://ws2.sinaimg.cn/large/006tKfTcly1fq6g7hy7jgj30qo0byagl.jpg"/></li>
 
 # Build
 1. Install `Android Studio 0.14+`、`gradle 2.0+`、`JDK 1.6+` and `Android SDK Tools` last version.
